@@ -41,8 +41,3 @@ if __name__ == "__main__":
         print(f"The word, {s}, is a palindrome.")
     else:
         print(f"The word, {s}, is not a palindrome.")
-
-#Sample input: racecar
-#Output: The word, racecar, is a palindrome.
-#Sample input: potato
-#Output: The word, potato, is not a palindrome.
